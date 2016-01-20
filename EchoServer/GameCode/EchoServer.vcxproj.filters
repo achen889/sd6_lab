@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Networking">
+      <UniqueIdentifier>{23650e67-5a44-4855-a9ee-bae280ce6e88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
